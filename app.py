@@ -103,7 +103,7 @@ with col1:
     km = st.number_input(
         "Kaç km yol gittiniz?", 
         min_value=0.0, 
-        value=100.0, 
+        value=0.0, 
         step=10.0,
         help="Gidilen toplam mesafeyi kilometre cinsinden girin."
     )
@@ -111,7 +111,7 @@ with col1:
     tuketim = st.number_input(
         "Araç 100 km'de kaç litre yakıyor?", 
         min_value=0.0, 
-        value=6.5, 
+        value=0.0, 
         step=0.1,
         help="Ortalama yakıt tüketiminiz."
     )
@@ -120,7 +120,7 @@ with col2:
     fiyat = st.number_input(
         "Yakıtın litre fiyatı kaç TL?", 
         min_value=0.0, 
-        value=42.50, 
+        value=0.0, 
         step=0.50,
         help="Güncel litre fiyatını girin."
     )
