@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Ana Başlık
-st.title("🚗 ARABA YAKIT HESAPLAMA")
+st.title("🚗 ARABA YAKIT HESAPLAMA YILDIZ ARGE")
 st.write("Gideceğiniz mesafe ve araç tüketim değerlerini girerek toplam maliyeti hesaplayın.")
 
 st.divider()
