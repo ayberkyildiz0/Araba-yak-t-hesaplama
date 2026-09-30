@@ -91,7 +91,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Ana Başlık
-st.title("🚗 ARABA YAKIT HESAPLAMA")
+st.title("🚗 ARABA YAKIT HESAPLAMA YILDIZ ARGE")
 st.caption("Mesafe ve yakıt verilerini girerek toplam maliyeti anında hesaplayın.")
 
 st.markdown("---")
